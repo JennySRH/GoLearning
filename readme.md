@@ -124,7 +124,7 @@ func main() {
 }
 ```
 
-![1568029275073](../../service%20computing/HW3/assets/1568029275073.png)
+![1568029275073](./assets/1568029275073.png)
 
 在终端相应路径里运行
 
@@ -132,7 +132,7 @@ func main() {
 go run hello.go
 ```
 
-![1568029137262](../../service%20computing/HW3/assets/1568029137262.png)
+![1568029137262](./assets/1568029137262.png)
 
 使用`go install`，此命令会构建 `hello` 命令，产生一个可执行的二进制文件。 接着它会将该二进制文件作为 `hello`安装到工作空间的 `bin` 目录中。
 
